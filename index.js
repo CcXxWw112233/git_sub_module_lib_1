@@ -13,3 +13,6 @@ export const aaa = (value) => {
 export const aaaa = (value) => {
   console.log("aaaa:" + value);
 };
+export const a5 = (value) => {
+  console.log("a5:" + value);
+};
