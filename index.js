@@ -9,3 +9,7 @@ export const aa = (value) => {
 export const aaa = (value) => {
   console.log("aaa:" + value);
 };
+
+export const aaaa = (value) => {
+  console.log("aaaa:" + value);
+};
