@@ -16,3 +16,6 @@ export const aaaa = (value) => {
 export const a5 = (value) => {
   console.log("a5:" + value);
 };
+export const a6 = (value) => {
+  console.log("a5:" + value);
+};
