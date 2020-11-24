@@ -3,5 +3,5 @@ export const a = (value) => {
 };
 
 export const aa = (value) => {
-  console.log("aa:" + value);
+  console.log("a:" + value);
 };
